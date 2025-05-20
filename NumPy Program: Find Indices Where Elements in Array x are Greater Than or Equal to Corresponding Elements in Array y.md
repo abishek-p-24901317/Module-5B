@@ -28,4 +28,4 @@ print(eq)
 ![443940825-ad03e9fc-8a44-48ce-bffc-2a9ed6db4354](https://github.com/user-attachments/assets/b3eb0f1e-5e40-4212-8e28-37847395e8b1)
 
 ## Result
-![Uploading 443940825-ad03e9fc-8a44-48ce-bffc-2a9ed6db4354.png…]()
+Thus the program that finds the indices where elements in array x are greater than or equal to their corresponding elements in array y is executed successfully.
